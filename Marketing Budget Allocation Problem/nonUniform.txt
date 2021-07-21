@@ -1,0 +1,160 @@
+The final marketing budget allocation is:
+TV advertising -> 6.5822344k
+Google -> 40.653492k
+Twitter -> 6.1034884k
+Facebook -> 46.59231k
+The total profit is 10.9573965k
+the total budget is 99.931526k
+
+The final marketing budget allocation is:
+TV advertising -> 5.428858k
+Google -> 44.488758k
+Twitter -> 3.5106065k
+Facebook -> 46.45739k
+The total profit is 11.129015k
+the total budget is 99.88561k
+
+The final marketing budget allocation is:
+TV advertising -> 3.6620138k
+Google -> 43.224506k
+Twitter -> 5.0033917k
+Facebook -> 48.067703k
+The total profit is 11.117586k
+the total budget is 99.95761k
+
+The final marketing budget allocation is:
+TV advertising -> 4.562122k
+Google -> 55.360363k
+Twitter -> 11.484195k
+Facebook -> 28.582844k
+The total profit is 10.95622k
+the total budget is 99.98952k
+
+The final marketing budget allocation is:
+TV advertising -> 7.9381022k
+Google -> 41.96527k
+Twitter -> 4.445726k
+Facebook -> 45.608932k
+The total profit is 10.9990635k
+the total budget is 99.95803k
+
+The final marketing budget allocation is:
+TV advertising -> 2.9348905k
+Google -> 58.434685k
+Twitter -> 4.0968175k
+Facebook -> 34.494125k
+The total profit is 11.328084k
+the total budget is 99.96052k
+
+The final marketing budget allocation is:
+TV advertising -> 3.869891k
+Google -> 28.687902k
+Twitter -> 4.992677k
+Facebook -> 62.440876k
+The total profit is 10.970123k
+the total budget is 99.99135k
+
+The final marketing budget allocation is:
+TV advertising -> 3.4969823k
+Google -> 67.82435k
+Twitter -> 0.49794734k
+Facebook -> 28.174438k
+The total profit is 11.552725k
+the total budget is 99.99371k
+
+The final marketing budget allocation is:
+TV advertising -> 5.229753k
+Google -> 21.777288k
+Twitter -> 0.86928505k
+Facebook -> 72.07797k
+The total profit is 11.021082k
+the total budget is 99.9543k
+
+The final marketing budget allocation is:
+TV advertising -> 3.6370878k
+Google -> 66.279785k
+Twitter -> 0.51202345k
+Facebook -> 29.350971k
+The total profit is 11.508989k
+the total budget is 99.77986k
+
+The final marketing budget allocation is:
+TV advertising -> 3.4290993k
+Google -> 29.510246k
+Twitter -> 0.77107406k
+Facebook -> 66.28096k
+The total profit is 11.160439k
+the total budget is 99.99138k
+
+The final marketing budget allocation is:
+TV advertising -> 5.0664806k
+Google -> 36.416348k
+Twitter -> 0.55918264k
+Facebook -> 57.92175k
+The total profit is 11.185815k
+the total budget is 99.96376k
+
+The final marketing budget allocation is:
+TV advertising -> 2.8595803k
+Google -> 47.419067k
+Twitter -> 1.5207677k
+Facebook -> 48.16996k
+The total profit is 11.3242035k
+the total budget is 99.969376k
+
+The final marketing budget allocation is:
+TV advertising -> 3.438483k
+Google -> 59.190186k
+Twitter -> 2.0109067k
+Facebook -> 35.309975k
+The total profit is 11.402761k
+the total budget is 99.949554k
+
+The final marketing budget allocation is:
+TV advertising -> 8.56464k
+Google -> 52.892063k
+Twitter -> 4.324946k
+Facebook -> 34.10355k
+The total profit is 11.086355k
+the total budget is 99.88519k
+
+The final marketing budget allocation is:
+TV advertising -> 6.6177816k
+Google -> 54.594177k
+Twitter -> 5.0785685k
+Facebook -> 33.539375k
+The total profit is 11.125555k
+the total budget is 99.8299k
+
+The final marketing budget allocation is:
+TV advertising -> 3.8212028k
+Google -> 74.59934k
+Twitter -> 5.217866k
+Facebook -> 16.355938k
+The total profit is 11.422021k
+the total budget is 99.994354k
+
+The final marketing budget allocation is:
+TV advertising -> 3.459089k
+Google -> 74.68061k
+Twitter -> 2.944804k
+Facebook -> 18.89465k
+The total profit is 11.522947k
+the total budget is 99.97916k
+
+The final marketing budget allocation is:
+TV advertising -> 4.6717215k
+Google -> 52.731194k
+Twitter -> 2.724101k
+Facebook -> 39.86084k
+The total profit is 11.27686k
+the total budget is 99.987854k
+
+The final marketing budget allocation is:
+TV advertising -> 4.0438986k
+Google -> 66.917336k
+Twitter -> 7.1302447k
+Facebook -> 21.8431k
+The total profit is 11.255449k
+the total budget is 99.93458k
+
